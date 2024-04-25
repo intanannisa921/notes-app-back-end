@@ -11,7 +11,7 @@ const {
       method: '*',
       path: '/',
       handler: (request, h) => {
-        return 'Riska Zafira';
+        return 'Intan Annisa';
       },
     },
     {
